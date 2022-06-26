@@ -1,0 +1,22 @@
+body {
+    background-color: #eaf6f6;
+}
+
+hr {
+    background-color: #eaf6f6;
+    border-style: None None dotted none ;
+    width:5%;
+    border-width: 5px;
+}
+
+h1 {
+    color: #66BFBF;
+    text-decoration-style: double;
+}
+
+h3 {
+    color: #66BFBF;
+
+    text-decoration-line: underline;
+
+}
